@@ -1,6 +1,6 @@
 ## Hello there ✌️
 
-  I'm Alonso, a Full-Stack Engineer, interested in developing. Self-taught, and fast learner and exceptionally meticulous.
+  I'm Alonso, a Full-Stack Engineer, interested in software developing. Self-taught, fast learner and exceptionally meticulous.
   
   - 🔭 I'm currently working with Django.
   - 🌱 I’m currently learning React.js
